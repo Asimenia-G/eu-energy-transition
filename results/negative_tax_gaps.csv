@@ -1,0 +1,3 @@
+iso3,country,year,price_incl_tax,price_excl_tax,n_semesters_incl_tax,n_semesters_excl_tax,renewables_pct,tax_price_gap,complete
+GRC,Greece,2022,0.22694999999999999,0.37529999999999997,2,2,43.449,-0.14834999999999998,True
+PRT,Portugal,2023,0.2185,0.24975,2,2,74.469,-0.03125,True
